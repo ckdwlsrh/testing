@@ -21,3 +21,4 @@
     Performance testing: Everyone is concerned about performance and no one likes it if system under performs. A solid performance test plan around file system will help in analyzing file system behavior and overall storage system performance, since most of the time a file system’s poor performance is heavily taxed to overall system performance and hence eventually impacts the economics of scale in business. Again, performance testing is a vast area and care must be taken in considering specific and important criteria while evaluating file system performance testing and most importantly the testing efforts should not go haywire.
 
 https://it-serial.tistory.com/51
+https://jcil.co.kr/29
